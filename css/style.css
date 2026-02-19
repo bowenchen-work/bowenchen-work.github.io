@@ -21,6 +21,14 @@
   color: #0d6efd !important;
 }
 
+.carouser {
+  padding-top: 3%;
+}
+
+.c-img {
+  border-radius: 7px;
+}
+
 .footer-link {
   text-decoration: none;
   color: var(--bs-secondary);
